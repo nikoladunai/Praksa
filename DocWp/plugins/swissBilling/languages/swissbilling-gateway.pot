@@ -1,0 +1,172 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Swissbilling Gateway 1.0.1\n"
+"Report-Msgid-Bugs-To: tech@swissbilling.ch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-05-23 09:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Domain: languages\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: SwissBillingPayment.php:20
+msgid "Swissbilling Payment plugin for WooCommerce"
+msgstr ""
+
+#: SwissBillingPayment.php:34
+msgid "Place order with Swissbilling"
+msgstr ""
+
+#: SwissBillingPayment.php:57
+msgid "Active"
+msgstr ""
+
+#: SwissBillingPayment.php:58
+msgid "Activate SWISSBILLING Invoice in your shop"
+msgstr ""
+
+#: SwissBillingPayment.php:64
+msgid "Title"
+msgstr ""
+
+#: SwissBillingPayment.php:66
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: SwissBillingPayment.php:67
+msgid "Swissbilling"
+msgstr ""
+
+#: SwissBillingPayment.php:71
+msgid "Description"
+msgstr ""
+
+#: SwissBillingPayment.php:74
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: SwissBillingPayment.php:78
+msgid "Test mode"
+msgstr ""
+
+#: SwissBillingPayment.php:79
+msgid "Enable Test Mode"
+msgstr ""
+
+#: SwissBillingPayment.php:81
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr ""
+
+#: SwissBillingPayment.php:86
+msgid "Pre Screening"
+msgstr ""
+
+#: SwissBillingPayment.php:87
+msgid "Enable Prescreening"
+msgstr ""
+
+#: SwissBillingPayment.php:92
+msgid "Payment Mode"
+msgstr ""
+
+#: SwissBillingPayment.php:96
+msgid "Direct"
+msgstr ""
+
+#: SwissBillingPayment.php:97
+msgid "Redirect"
+msgstr ""
+
+#: SwissBillingPayment.php:102
+msgid "Enable B2B Mode"
+msgstr ""
+
+#: SwissBillingPayment.php:103
+msgid "Is B2B Mode available"
+msgstr ""
+
+#: SwissBillingPayment.php:108
+msgid "Merchant ID"
+msgstr ""
+
+#: SwissBillingPayment.php:112
+msgid "Password"
+msgstr ""
+
+#: SwissBillingPayment.php:116
+msgid "Shop ID"
+msgstr ""
+
+#: SwissBillingPayment.php:122
+msgid "Email Invoice Fee"
+msgstr ""
+
+#: SwissBillingPayment.php:127
+msgid "Paper Invoice Fee"
+msgstr ""
+
+#: SwissBillingPayment.php:132
+msgid "Invoice langauge"
+msgstr ""
+
+#: SwissBillingPayment.php:136
+msgid "German"
+msgstr ""
+
+#: SwissBillingPayment.php:137
+msgid "Franch"
+msgstr ""
+
+#: SwissBillingPayment.php:138
+msgid "Store Local"
+msgstr ""
+
+#: SwissBillingPayment.php:141
+msgid "Language in which redirect mode swb window will be displayed"
+msgstr ""
+
+#: SwissBillingPayment.php:145
+msgid "Success Status"
+msgstr ""
+
+#: SwissBillingPayment.php:154
+msgid ""
+"Expected status on success : “Answered” (the transaction is to be validated) or "
+"“Acknowledged” (the transaction is committed and will be generated invoice)"
+msgstr ""
+
+#: SwissBillingPayment.php:176
+#, php-format
+msgid "I agree with SWISSBILLING %s terms and conditions. %s"
+msgstr ""
+
+#: SwissBillingPayment.php:195
+msgid "Invoice by email."
+msgstr ""
+
+#: SwissBillingPayment.php:202
+msgid "Invoice by post."
+msgstr ""
+
+#: SwissBillingPayment.php:217
+msgid "Swissbilling invoice type is required!"
+msgstr ""
+
+#: SwissBillingPayment.php:222
+msgid "You must agree with SWISSBILLING terms and conditions if you want to use this payment method."
+msgstr ""
+
+#: SwissBillingPayment.php:258 SwissBillingPayment.php:322 SwissBillingPayment.php:345
+msgid "Oops something went wrong, please try again. (Payment not completed)"
+msgstr ""
+
+#: SwissBillingPayment.php:356 SwissBillingPayment.php:366
+msgid "Payment was not completed please try again"
+msgstr ""

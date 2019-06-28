@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-05-23 09:46+0200\n"
+"PO-Revision-Date: 2019-05-23 09:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: SwissBillingPayment.php:20
+msgid "Swissbilling Payment plugin for WooCommerce"
+msgstr "Plugin swissbilling pour Woocommerce"
+
+#: SwissBillingPayment.php:34
+msgid "Place order with Swissbilling"
+msgstr "Commander avec swissbilling"
+
+#: SwissBillingPayment.php:57
+msgid "Active"
+msgstr "Actif"
+
+#: SwissBillingPayment.php:58
+msgid "Activate SWISSBILLING Invoice in your shop"
+msgstr "Activer le mode de paiement  swissbilling dans le shop"
+
+#: SwissBillingPayment.php:64
+msgid "Title"
+msgstr "Titre"
+
+#: SwissBillingPayment.php:66
+msgid "This controls the title which the user sees during checkout."
+msgstr "Pilote l'affichage du titre dans le checkout - visible pour le client."
+
+#: SwissBillingPayment.php:67
+msgid "Swissbilling"
+msgstr "Swissbilling"
+
+#: SwissBillingPayment.php:71
+msgid "Description"
+msgstr "Description"
+
+#: SwissBillingPayment.php:74
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+"Pilote l'affichage de la description dans le checkout - visible pour le "
+"client."
+
+#: SwissBillingPayment.php:78
+msgid "Test mode"
+msgstr "Mode test"
+
+#: SwissBillingPayment.php:79
+msgid "Enable Test Mode"
+msgstr "Activer le mode test"
+
+#: SwissBillingPayment.php:81
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr "Applique l'interface de paiement dans le mode test."
+
+#: SwissBillingPayment.php:86
+msgid "Pre Screening"
+msgstr "Prescreening"
+
+#: SwissBillingPayment.php:87
+msgid "Enable Prescreening"
+msgstr "Activer le prescreening"
+
+#: SwissBillingPayment.php:92
+msgid "Payment Mode"
+msgstr "Mode de paiement"
+
+#: SwissBillingPayment.php:96
+msgid "Direct"
+msgstr "Direct"
+
+#: SwissBillingPayment.php:97
+msgid "Redirect"
+msgstr "Redirigé"
+
+#: SwissBillingPayment.php:102
+msgid "Enable B2B Mode"
+msgstr "Activer B2B"
+
+#: SwissBillingPayment.php:103
+msgid "Is B2B Mode available"
+msgstr "B2B disponible"
+
+#: SwissBillingPayment.php:108
+msgid "Merchant ID"
+msgstr "ID marchand"
+
+#: SwissBillingPayment.php:112
+msgid "Password"
+msgstr "Mot de passe"
+
+#: SwissBillingPayment.php:116
+msgid "Shop ID"
+msgstr "Shop ID"
+
+#: SwissBillingPayment.php:122
+msgid "Email Invoice Fee"
+msgstr "Frais facture e-mail"
+
+#: SwissBillingPayment.php:127
+msgid "Paper Invoice Fee"
+msgstr "Frais facture papier"
+
+#: SwissBillingPayment.php:132
+msgid "Invoice langauge"
+msgstr "Langue des factures"
+
+#: SwissBillingPayment.php:136
+msgid "German"
+msgstr "Allemand"
+
+#: SwissBillingPayment.php:137
+msgid "Franch"
+msgstr "Français"
+
+#: SwissBillingPayment.php:138
+msgid "Store Local"
+msgstr "Langue du magasin"
+
+#: SwissBillingPayment.php:141
+msgid "Language in which redirect mode swb window will be displayed"
+msgstr ""
+
+#: SwissBillingPayment.php:145
+msgid "Success Status"
+msgstr "Statut d'approbation"
+
+#: SwissBillingPayment.php:154
+msgid ""
+"Expected status on success : “Answered” (the transaction is to be validated) "
+"or “Acknowledged” (the transaction is committed and will be generated "
+"invoice)"
+msgstr ""
+"Statut success attendu: \"Answered\" (la transaction doit être validée) ou "
+"\"Acknowledged\" (la transaction est validée et la facture sera générée)"
+
+#: SwissBillingPayment.php:176
+#, php-format
+msgid "I agree with SWISSBILLING %s terms and conditions. %s"
+msgstr "J'accepte %sles conditions générales%s de Swissbilling"
+
+#: SwissBillingPayment.php:195
+msgid "Invoice by email."
+msgstr "Facture e-mail."
+
+#: SwissBillingPayment.php:202
+msgid "Invoice by post."
+msgstr "Facture papier."
+
+#: SwissBillingPayment.php:217
+msgid "Swissbilling invoice type is required!"
+msgstr "Mode de facturation swissbilling requis!"
+
+#: SwissBillingPayment.php:222
+msgid ""
+"You must agree with SWISSBILLING terms and conditions if you want to use "
+"this payment method."
+msgstr ""
+"Vous devez accepter les conditions générales swissbilling pour utiliser "
+"cette méthode de paiement."
+
+#: SwissBillingPayment.php:258 SwissBillingPayment.php:322
+#: SwissBillingPayment.php:345
+msgid "Oops something went wrong, please try again. (Payment not completed)"
+msgstr "Oups il y a eu un problème, essayez à nouveau. (paiement non effectué)"
+
+#: SwissBillingPayment.php:356 SwissBillingPayment.php:366
+msgid "Payment was not completed please try again"
+msgstr "Le paiement n'a pas abouti, essayez à nouveau SVP."
